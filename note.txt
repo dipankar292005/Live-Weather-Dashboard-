@@ -1,2 +1,1 @@
-
 Animated Weather Dashboard — Built a fully animated, responsive weather application that fetches real-time data using Open-Meteo APIs. Implemented city search, detailed weather stats, 5-day forecast, smooth UI animations, error handling, loading indicators, and dynamic weather icons for a polished user experience.
